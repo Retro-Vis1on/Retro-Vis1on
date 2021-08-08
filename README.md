@@ -12,4 +12,5 @@
 - ⚡ Fun fact **0.3 - 0.2 != 0.1**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/pratham-singh-4971ab19a" target="blank" style="width:100%"><img align="center" src="https://img.icons8.com/material-sharp/48/000000/linkedin--v2.png" alt="pratham-singh-4971ab19a" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/pratham-singh-4971ab19a" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5oMjbnNkPXdbT34o48m54coyO-BKEPCc-w&usqp=CAU" alt="pratham-singh-4971ab19a" height="40" width="40" /></a>
