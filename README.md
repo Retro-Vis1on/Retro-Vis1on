@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Singh</h1>
 <h3 align="center">I'm a student and a budding full stack developer</h3>
 
-- 🌱 I’m currently learning **WebRTC, Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Retro-Vis1on](https://github.com/Retro-Vis1on)
 
